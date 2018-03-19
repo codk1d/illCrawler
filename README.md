@@ -1,4 +1,4 @@
-[illumCrawler](https://github.com/rvasources/illumCrawler) - is crawler for web pages from darknet (tor network).
+[illumCrawler](https://github.com/rvasources/illumCrawler) - is crawler for web pages from darknet (tor network). You can use it for creating your own database of tor sites, own tor search engine and etc.
 
 # Getting Started
 1. The minimum required PHP version 5, MySQL.

@@ -10,10 +10,13 @@
 5. Edit `configuration.php` file.
 
 # Functions of illumCrawler
-1. Crawling all pages of all domains in database.
+1. Crawling all pages of all domains in database (it saves title, metategs, text and url of page).
 2. Getting and checking all new domains which got from scanned pages.
 3. Updating content of outdated pages (1 time in 2 days).
 4. Removing died sites from database.
 
 # Information
 Software has 4 functions which you can use with special prefixes. For example: `./illumcrawler.php --crawler`. This software working as a daemon (you can add it to crontab).
+
+
+------ скоро залью-------

@@ -7,7 +7,7 @@
 
         $ git clone https://github.com/rvasources/illumCrawler
 4. Import .sql file to MySQL database.
-5. Edit `configuration.php` file.
+5. Open `illum.php` file and change database data.
 
 # Functions of illumCrawler
 1. Crawling all pages of all domains in database (it saves title, metategs, text and url of page).
@@ -18,5 +18,3 @@
 # Information
 Software has 4 functions which you can use with special prefixes. For example: `./illumcrawler.php --crawler`. This software working as a daemon (you can add it to crontab).
 
-
------- скоро залью-------

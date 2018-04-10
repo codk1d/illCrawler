@@ -6,8 +6,9 @@
 3. Create database in MySQL.
 
         $ git clone https://github.com/rvasources/illCrawler
-4. Import .sql file to MySQL database.
-5. Open `illum.php` file and change database data.
+4. Import `.sql` file to MySQL database.
+5. Add domain(s) to database.
+6. Open `illum.php` file and change database data.
 
 # Functions of illCrawler
 1. Crawling all pages of all domains in database (it saves title, metategs, text and url of page).

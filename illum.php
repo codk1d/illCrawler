@@ -5,7 +5,7 @@ require_once __DIR__ . "/resources/database.class.php";
 require_once __DIR__ . "/resources/guard.class.php";
 require_once __DIR__ . "/resources/main.class.php";
 // Инициализируем подключени к бд
-$db = new database("localhost", "torCrowler", "ivpy5YZBva6CAksn", "illum");
+$db = new database("localhost", "USERNAME", "PASSWORD", "DBNAME");
 // Массив данных с доступными командами
 $commands = array(
 	// Функция первого сканирования сайта

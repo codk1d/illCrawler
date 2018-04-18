@@ -17,5 +17,5 @@
 4. Removing died sites from database.
 
 # Information
-Software has 4 functions which you can use with special prefixes. For example: `./illumcrawler.php --crawler`. This software working as a daemon (you can add it to crontab).
+Software has 4 functions which you can use with special prefixes. For example: `./illum.php --crawler`. This software working as a daemon (you can add it to crontab).
 

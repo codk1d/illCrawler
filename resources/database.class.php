@@ -32,7 +32,7 @@ Class database
 	public function __construct($host = "", $user = "", $password = "", $db = "")
 	{
 		// Проверяем входящие данные
-		if (empty($host) || empty($user) || empty($password) || empty($db))
+		if (empty($host) || empty($user) || empty($db))
 			// Возвращаем отрицательный ответ
 			return false;
 		// Производим подключение
